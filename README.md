@@ -1,2 +1,2 @@
 # GoAsynchronousStreams
-Asynchronously read/write messages to/from Kafka
+Asynchronously write/read messages to/from Kafka
